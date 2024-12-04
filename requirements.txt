@@ -1,4 +1,4 @@
 streamlit
-timeimport
+time
 pandas
 numpy
